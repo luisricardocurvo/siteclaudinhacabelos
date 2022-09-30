@@ -466,7 +466,7 @@ a{
     padding: 2rem;
 }
 .testimonials__card{
-    width: 420px;
+    width: 320px;
     margin-top: var(--mb-3);
     grid-template-columns: 1fr;
 }
