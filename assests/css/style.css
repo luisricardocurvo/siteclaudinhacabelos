@@ -460,7 +460,7 @@ a{
 /* TESTIMONIALS */
 .testimonials{
     background-color: var(--main-color);
-    border-radius: 300px 0;
+    /*border-radius: 300px 0;*/
 }
 .testimonials__content{
     padding: 2rem;
