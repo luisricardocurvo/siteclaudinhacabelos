@@ -73,7 +73,7 @@ a{
     padding: calc(var(--header-height) + 20px) 0;
 }
 .grid{
-    display: grid;
+    /*display: grid;*/
     gap: -5px;
 }
 .flex{
