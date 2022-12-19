@@ -210,6 +210,13 @@ a{
     position: relative;
     transition: all 400ms ease;
 }
+
+
+.video{
+
+margin-left:"30px";
+}
+
 .nav__link::before{
     content: "";
     position: absolute;
