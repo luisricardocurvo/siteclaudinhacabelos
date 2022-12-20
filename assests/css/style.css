@@ -597,6 +597,11 @@ margin-left:-107px;
         height: 50%;
         top: 25%;
     }
+    
+    .foto{
+    width:120px;
+    height: 100;
+    }
     .testimonials__card{
         width: 820px;
         grid-template-columns: repeat(2, 1fr);
