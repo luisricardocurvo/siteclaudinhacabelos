@@ -168,10 +168,7 @@ a{
     transition: all 400ms ease;
 }
 
-.brand img{
-  text-align:center;
-  margin-left:110px;  
-}
+
 .navbar{
     justify-content: space-between;
     padding: 20px;
