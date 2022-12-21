@@ -380,6 +380,12 @@ margin-left:-107px;
 .package__cards{
     margin-top: var(--mb-2-5);
 }
+
+
+.{
+   width:400;
+   height:250;
+}
 .card{
     height: 360px;
     background-color: var(--white-color);
