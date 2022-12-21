@@ -390,15 +390,29 @@ margin-left:-107px;
 }
 
 .foto2{
-   width: 270px;
-   height: 270px;
-   margin-left: -3px;  
+   width: 216px;
+height: 216px;
+margin-left: 0px;
 }
 .foto3{
-   width: 270px;
-   height: 270px;
-   margin-left: -3px;  
+   width: 216px;
+height: 216px;
+margin-left: 0px;
 }
+
+.foto4{
+   width: 216px;
+height: 216px;
+margin-left: 0px;
+}
+
+.foto5{
+   width: 216px;
+height: 216px;
+margin-left: 0px;
+}
+
+
 
 
 
