@@ -167,6 +167,10 @@ a{
     /* z-index: 999999; */
     transition: all 400ms ease;
 }
+
+.brand{
+  text-align:center;
+}
 .navbar{
     justify-content: space-between;
     padding: 20px;
