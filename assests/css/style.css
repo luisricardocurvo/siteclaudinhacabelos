@@ -342,6 +342,7 @@ a{
 }
 .services__content__descripion .box{
     padding: 20px;
+    background-color: #f7e6df;
 }
 .services__content__descripion .box .inner img {
     width: 90px;
