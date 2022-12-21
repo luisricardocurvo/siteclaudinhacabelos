@@ -388,6 +388,22 @@ margin-left:-107px;
    margin-left: -3px;
     
 }
+
+.foto2{
+   width: 270px;
+   height: 270px;
+   margin-left: -3px;  
+}
+.foto3{
+   width: 270px;
+   height: 270px;
+   margin-left: -3px;  
+}
+
+
+
+
+
 .card{
     height: 360px;
     background-color: var(--white-color);
