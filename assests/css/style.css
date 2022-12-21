@@ -170,6 +170,7 @@ a{
 
 .brand{
   text-align:center;
+  margin-left:110px;  
 }
 .navbar{
     justify-content: space-between;
