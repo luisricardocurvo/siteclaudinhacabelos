@@ -175,6 +175,7 @@ a{
 .navbar{
     justify-content: space-between;
     padding: 20px;
+    background-color: #a77880;
 }
 .nav__toggle{
     font-size: var(--h1-font-size);
