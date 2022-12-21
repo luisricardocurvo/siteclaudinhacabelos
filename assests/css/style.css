@@ -214,7 +214,11 @@ a{
 
 .video{
 
-margin-left:-107px;
+    width: 100%;
+    padding: 2rem;
+    text-align: center;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
 }
 
 .nav__link::before{
