@@ -76,8 +76,12 @@ a{
     /*display: grid;*/
     gap: 20px;
 }
+
+.brand{
+    text-align: center;
+}
 .flex{
-    
+    display: flex;
     align-items: center;
     justify-content: center;
 }
